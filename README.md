@@ -13,7 +13,6 @@ Minha stack envolve redes, segurança da informação, análise de incidentes, m
 ---
 
 ## 👨‍💻 Programação Web
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
@@ -32,6 +31,7 @@ Minha stack envolve redes, segurança da informação, análise de incidentes, m
 <code><img height="32" src="https://cdn.simpleicons.org/mikrotik" alt="MikroTik"/></code>
 <code><img height="32" src="https://cdn.simpleicons.org/fortinet" alt="Fortinet"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 
 ---
 
