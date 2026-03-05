@@ -37,4 +37,4 @@ Minha stack envolve redes, segurança da informação, análise de incidentes, m
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cartaxo17&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=cartaxo17)
